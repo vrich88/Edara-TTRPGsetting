@@ -1,0 +1,20 @@
+{
+  "name": "edara-ttrpgsetting",
+  "version": "1.0.0",
+  "description": "Edara",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrich88/Edara-TTRPGsetting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrich88/Edara-TTRPGsetting/issues"
+  },
+  "homepage": "https://github.com/vrich88/Edara-TTRPGsetting#readme"
+}
