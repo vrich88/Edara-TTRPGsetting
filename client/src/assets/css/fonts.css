@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+
+.speech-common {
+  /* <style>
+    @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+    </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet"> */
+  font-family: "Caveat", cursive;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Amiri&display=swap");
+
+.speech-elvish {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri&display=swap" rel="stylesheet"> */
+  font-family: "Amiri", serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Old+Permic&display=swap");
+
+.speech-dwarfish {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Old+Permic&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Old+Permic&display=swap" rel="stylesheet"> */
+  font-family: "Noto Sans Old Permic", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Akatab&display=swap");
+
+.speech-orcish {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Akatab&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Akatab&display=swap" rel="stylesheet"> */
+  font-family: "Akatab", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Buginese&display=swap");
+
+.speech-triton {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Buginese&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Buginese&display=swap" rel="stylesheet"> */
+  font-family: "Noto Sans Buginese", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap");
+
+.speech-katar {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap" rel="stylesheet"> */
+  font-family: "Noto Nastaliq Urdu", serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Old+Persian&display=swap");
+
+.speech-tiefling {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Old+Persian&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Old+Persian&display=swap" rel="stylesheet"> */
+  font-family: "Noto Sans Old Persian", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Ruwudu&display=swap");
+
+.speech-saurian {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Ruwudu&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ruwudu&display=swap" rel="stylesheet"> */
+  font-family: "Ruwudu", serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Cypro+Minoan&display=swap");
+
+.speech-primordial {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Cypro+Minoan&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Cypro+Minoan&display=swap" rel="stylesheet"> */
+  font-family: "Noto Sans Cypro Minoan", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham&display=swap");
+
+.speech-celestial {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham&display=swap" rel="stylesheet"> */
+  font-family: "Noto Sans Ogham", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham&display=swap");
+
+.speech-druid {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham&display=swap" rel="stylesheet"> */
+  font-family: "Noto Sans Old Hungarian", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Wavefont:wght@100&display=swap");
+
+.speech-warforged {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Wavefont:wght@100&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Wavefont:wght@100&display=swap" rel="stylesheet"> */
+  font-family: "Wavefont", cursive;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Linear+B&display=swap");
+
+.speech-arakocra {
+  /* <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Linear+B&display=swap');
+  </style> */
+  /* <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Linear+B&display=swap" rel="stylesheet"> */
+  font-family: "Noto Sans Linear B", sans-serif;
+}

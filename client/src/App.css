@@ -1,36 +1,3 @@
-* {
-  /* common */
-  font-family: 'Caveat', cursive;
-  /* elvish */
-  font-family: 'Amiri', serif;
-  /* dwarfish */
-  font-family: 'Noto Sans Old Permic', sans-serif;
-  /* orcish */
-  font-family: 'Akatab', sans-serif;
-  /* triton */
-  font-family: 'Noto Sans Buginese', sans-serif;
-  /* katar */
-  font-family: 'Noto Nastaliq Urdu', serif;
-  /* tiefling/demon */
-  font-family: 'Noto Sans Old Persian', sans-serif;
-  /* saurian */
-  font-family: 'Ruwudu', serif;
-  /* primordial */
-  font-family: 'Noto Sans Cypro Minoan', sans-serif;
-  /* celestial */
-  font-family: 'Noto Sans Ogham', sans-serif;
-  /* druid */
-  font-family: 'Noto Sans Old Hungarian', sans-serif;
-  /* warforged */
-  font-family: 'Wavefont', cursive;
-}
-/* <style>
-  @import url('https://fonts.googleapis.com/css2?family=Akatab&family=Amiri&family=Caveat&family=Noto+Nastaliq+Urdu&family=Noto+Sans+Bamum&family=Noto+Sans+Buginese&family=Noto+Sans+Cypro+Minoan&family=Noto+Sans+Ogham&family=Noto+Sans+Old+Hungarian&family=Noto+Sans+Old+Permic&family=Noto+Sans+Old+Persian&family=Ruwudu&family=Wavefont:wght@100&display=swap');
-</style> */
-/* <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Akatab&family=Amiri&family=Caveat&family=Noto+Nastaliq+Urdu&family=Noto+Sans+Bamum&family=Noto+Sans+Buginese&family=Noto+Sans+Cypro+Minoan&family=Noto+Sans+Ogham&family=Noto+Sans+Old+Hungarian&family=Noto+Sans+Old+Permic&family=Noto+Sans+Old+Persian&family=Ruwudu&family=Wavefont:wght@100&display=swap" rel="stylesheet"> */
-
 .App {
   text-align: center;
 }
